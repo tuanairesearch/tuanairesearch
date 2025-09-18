@@ -7,8 +7,8 @@
 ---
 
 ## 🗂 Featured Repositories
-- [hello-python](https://github.com/tuanairesearch/learn_cs50) — The place where I put solution for CS50's problem sets.
-- [uni-math-cs](https://github.com/tuanairesearch/test_project) — Where I put testing projects.
+- [learn-cs50](https://github.com/tuanairesearch/learn-cs50) — The place where I put solution for CS50's problem sets.
+- [test-place](https://github.com/tuanairesearch/test-place) — Where I put testing projects.
 
 ---
 
