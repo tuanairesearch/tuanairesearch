@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tuan
 
-🎓 Undergraduate in **Mathematics & Computer Science** @ HCMUS (Class of 2028)  
+🎓 Undergraduate in **Mathematics & Computer Science** @ HCMUS (Class of 2029)  
 🔬 Interests: Algorithms, Optimization, Machine Learning  
 📖 Learning research methods step by step  
 
