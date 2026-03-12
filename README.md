@@ -7,7 +7,7 @@
 ---
 
 ## 🗂 Featured Repositories
-- [[learn-cs50](https://github.com/tuanairesearch/learn-cs50)](https://github.com/tuanairesearch/codecrafters-redis-cpp) — I am current work on Redis (C++) with instruction from CodeCrafters.io
+- [[codecrafters-redis-cpp](https://github.com/tuanairesearch/codecrafters-redis-cpp)) — I am current work on Redis (C++) with instruction from CodeCrafters.io
 
 ---
 
