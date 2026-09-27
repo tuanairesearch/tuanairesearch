@@ -1,34 +1,16 @@
-# 👋 Hi, I'm Tuan
+# Hi, I'm Tuấn 👋
 
-🎓 Undergraduate in **Mathematics & Computer Science** @ HCMUS (Class of 2029)  
-🔬 Interests: Algorithms, Optimization, Machine Learning  
-📖 Learning research methods step by step  
+Math & CS undergrad at VNUHCM – University of Science (HCMUS), class of 2029.
+I'm working toward AI safety research, mainly **mechanistic interpretability** and **LLM evaluations**.
 
----
+**Now:** working through the [ARENA](https://learn.arena.education) curriculum and writing it up as a lab notebook at [blog.tuanairesearch.com](https://blog.tuanairesearch.com).
 
-## 🗂 Featured Repositories
-- [[codecrafters-redis-cpp](https://github.com/tuanairesearch/codecrafters-redis-cpp)) — I am current work on Redis (C++) with instruction from CodeCrafters.io
+### Projects
+- **[safety-probes-under-shift](https://github.com/tuanairesearch/safety-probes-under-shift)** *(in progress)*: do linear probes on Qwen2.5-0.5B's hidden states still detect harmful requests under paraphrases, typos, and Vietnamese?
+- **[codecrafters-redis-cpp](https://github.com/tuanairesearch/codecrafters-redis-cpp)**: a Redis server in C++ from scratch: RESP parsing, lists, streams, transactions, replication (160+ commits).
+- **[on-tldc-hcmus](https://github.com/tuanairesearch/on-tldc-hcmus)**: a quiz web app for HCMUS's General Psychology course: 845 questions, 3 difficulty levels, timed exam mode.
 
----
+### Tools
+Python · PyTorch · TransformerLens · C++ · JavaScript · Git · LaTeX
 
-## 🛠 Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=fff"/>
-</p>
-
----
-
-## 📊 GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuanairesearch&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanairesearch&layout=compact&theme=default)
-
----
-
-## ✨ Philosophy
-> *Clarity over cleverness.  
-> Small, consistent contributions.  
-> Research is a practice of patience.*
+> Clarity over cleverness. Small, consistent contributions.
